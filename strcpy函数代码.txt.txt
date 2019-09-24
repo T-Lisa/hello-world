@@ -1,4 +1,4 @@
-char * strcpy(char* src)
+﻿char * strcpy(char* src)
 {
 //compute the length of src
 int len=0;
@@ -13,5 +13,5 @@ dst[len]=0;
 return dst;
 }
 /**
-远程edit
+本地编辑
 **/
