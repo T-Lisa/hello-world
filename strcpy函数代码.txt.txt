@@ -13,5 +13,5 @@ dst[len]=0;
 return dst;
 }
 /**
-±¾µØ±à¼­
+è¿œç¨‹edit
 **/
